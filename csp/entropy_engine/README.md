@@ -195,7 +195,7 @@ How Entropy Engine compares to standard mechanisms commonly found on the web:
 | **Local Offline Privacy** | ✅ Fully Functional Offline | ✅ Local | ✅ Local | ❌ Requires Cloud Ping |
 
 ## 🛠 Installation
-git clone https://github.com/yourusername/entropy_engine.git
+[git clone https://github.com/yourusername/entropy_engine.git](https://github.com/avinashdkumar27/entropy_engine/tree/cbd6f50a97470ff6593c12a5e90bf0f83a24e499/csp/entropy_engine)
 cd entropy_engine
 pip install -r requirements.txt
 
