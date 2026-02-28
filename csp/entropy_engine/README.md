@@ -1,10 +1,9 @@
 # 🧠 Entropy Engine
 **Advanced Password Intelligence & Attack Simulation System**
 
-[![CI Testing](https://github.com/yourusername/entropy_engine/actions/workflows/python-app.yml/badge.svg)](https://github.com/yourusername/entropy_engine/actions/workflows/python-app.yml)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://entropy-engine-app.streamlit.app/)
+[![Streamlit App](https://entropymodel.streamlit.app/)
 
-**Live Demo:** [https://entropy-engine-app.streamlit.app/](https://entropy-engine-app.streamlit.app/)
+**Live Demo:** (https://entropymodel.streamlit.app/)
 
 ## 🎥 Demo Video
 ![Entropy Engine Demo](assets/demo.webp)
